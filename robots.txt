@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bigbos4d.iris-project.org/sitemap.xml
+Sitemap : http://bigbos4d.edu.huns.me/sitemap.xml
